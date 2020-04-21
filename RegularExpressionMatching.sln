@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegularExpressionMatching", "RegularExpressionMatching\RegularExpressionMatching.csproj", "{1E9EDEC3-BD4A-4B4A-AD19-95ABAE904258}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegularExpressionMatching.Test", "RegularExpressionMatching.Test\RegularExpressionMatching.Test.csproj", "{5408C957-F9C7-447A-957E-0B1B47D0B639}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E9EDEC3-BD4A-4B4A-AD19-95ABAE904258}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E9EDEC3-BD4A-4B4A-AD19-95ABAE904258}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E9EDEC3-BD4A-4B4A-AD19-95ABAE904258}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E9EDEC3-BD4A-4B4A-AD19-95ABAE904258}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5408C957-F9C7-447A-957E-0B1B47D0B639}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5408C957-F9C7-447A-957E-0B1B47D0B639}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5408C957-F9C7-447A-957E-0B1B47D0B639}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5408C957-F9C7-447A-957E-0B1B47D0B639}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ADB639BD-3BDE-4C7D-B912-2D01CC19CDF1}
+	EndGlobalSection
+EndGlobal
